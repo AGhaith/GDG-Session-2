@@ -7,7 +7,7 @@ interface IVehicleActions
     void Honk();
 }
 // Vehicle Class
-class Vehicle_Class
+abstract class Vehicle_Class
 {
     // Readonly(Can assign a value to it once and then can't change it) Manufacture Date
     readonly string ManufactureDate;
@@ -29,11 +29,8 @@ class Vehicle_Class
         // Printing the number of vehicles
         PrintVehicleCount();
     }
-    // virtual(force the child classes to have their own implementation) Method to Drive
-    protected virtual void Drive()
-    {
-
-    }
+    // Abstract(force the child classes to have their own implementation) Method to Drive
+    public abstract void Drive();
     // Static Method to Print Number of Vehicles
     static void PrintVehicleCount()
     {
