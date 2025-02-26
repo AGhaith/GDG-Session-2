@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmed\\Documents\\GitHub\\GDG Session 2\\OOP Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3AB0B4F-505C-4799-90EC-913A9B6542DF}|Gym Fitness Management System\\Gym Fitness Management System.csproj|c:\\users\\ahmed\\documents\\github\\gdg session 2\\oop task\\gym fitness management system\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3AB0B4F-505C-4799-90EC-913A9B6542DF}|Gym Fitness Management System\\Gym Fitness Management System.csproj|solutionrelative:gym fitness management system\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed\\Documents\\GitHub\\GDG Session 2\\OOP Task\\Gym Fitness Management System\\Main.cs",
+              "RelativeDocumentMoniker": "Gym Fitness Management System\\Main.cs",
+              "ToolTip": "C:\\Users\\Ahmed\\Documents\\GitHub\\GDG Session 2\\OOP Task\\Gym Fitness Management System\\Main.cs",
+              "RelativeToolTip": "Gym Fitness Management System\\Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:39:19.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

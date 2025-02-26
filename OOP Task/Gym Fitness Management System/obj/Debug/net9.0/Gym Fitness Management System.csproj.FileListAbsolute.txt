@@ -1,0 +1,14 @@
+C:\Users\Ahmed\Documents\GitHub\GDG Session 2\OOP Task\Gym Fitness Management System\obj\Debug\net9.0\Gym Fitness Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed\Documents\GitHub\GDG Session 2\OOP Task\Gym Fitness Management System\obj\Debug\net9.0\Gym Fitness Management System.AssemblyInfoInputs.cache
+C:\Users\Ahmed\Documents\GitHub\GDG Session 2\OOP Task\Gym Fitness Management System\obj\Debug\net9.0\Gym Fitness Management System.AssemblyInfo.cs
+C:\Users\Ahmed\Documents\GitHub\GDG Session 2\OOP Task\Gym Fitness Management System\obj\Debug\net9.0\Gym Fitness Management System.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed\Documents\GitHub\GDG Session 2\OOP Task\Gym Fitness Management System\bin\Debug\net9.0\Gym Fitness Management System.exe
+C:\Users\Ahmed\Documents\GitHub\GDG Session 2\OOP Task\Gym Fitness Management System\bin\Debug\net9.0\Gym Fitness Management System.deps.json
+C:\Users\Ahmed\Documents\GitHub\GDG Session 2\OOP Task\Gym Fitness Management System\bin\Debug\net9.0\Gym Fitness Management System.runtimeconfig.json
+C:\Users\Ahmed\Documents\GitHub\GDG Session 2\OOP Task\Gym Fitness Management System\bin\Debug\net9.0\Gym Fitness Management System.dll
+C:\Users\Ahmed\Documents\GitHub\GDG Session 2\OOP Task\Gym Fitness Management System\bin\Debug\net9.0\Gym Fitness Management System.pdb
+C:\Users\Ahmed\Documents\GitHub\GDG Session 2\OOP Task\Gym Fitness Management System\obj\Debug\net9.0\Gym Fitness Management System.dll
+C:\Users\Ahmed\Documents\GitHub\GDG Session 2\OOP Task\Gym Fitness Management System\obj\Debug\net9.0\refint\Gym Fitness Management System.dll
+C:\Users\Ahmed\Documents\GitHub\GDG Session 2\OOP Task\Gym Fitness Management System\obj\Debug\net9.0\Gym Fitness Management System.pdb
+C:\Users\Ahmed\Documents\GitHub\GDG Session 2\OOP Task\Gym Fitness Management System\obj\Debug\net9.0\Gym Fitness Management System.genruntimeconfig.cache
+C:\Users\Ahmed\Documents\GitHub\GDG Session 2\OOP Task\Gym Fitness Management System\obj\Debug\net9.0\ref\Gym Fitness Management System.dll
